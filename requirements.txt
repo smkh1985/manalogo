@@ -2,3 +2,5 @@ emoji==0.5.1
 opencv-python== 3.4.4.19
 numpy ==1.14.3
 python-telegram-bot== 11.1.0
+arabic-reshaper ==2.0.14
+python-bidi==0.4.0
