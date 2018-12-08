@@ -1,0 +1,4 @@
+emoji 0.5.1
+opencv-python 3.4.4.19
+numpy 
+python-telegram-bot 11.1.0
